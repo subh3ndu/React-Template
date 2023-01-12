@@ -1,4 +1,12 @@
+/* fonts: Karla & 'Source Code Pro' */
+@import url('https://fonts.googleapis.com/css2?family=Karla&family=Source+Code+Pro&display=swap');
+
 * {
-    margin: 0;
     box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Karla', sans-serif;
 }
