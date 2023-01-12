@@ -1,3 +1,3 @@
 # React-Template
 
-Made with vite
+Made with [@vite](https://vitejs.dev/)
